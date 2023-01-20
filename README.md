@@ -5,7 +5,7 @@
 
 This is the place where I opensource stuff and try not to break many things 🤣
 
-I'm continuously self-learnerning and I'm currently software engineering student at [42 School](https://www.42sp.org.br//) <img src="https://raw.githubusercontent.com/lourencod14s/lourencod14s/main/42.jpg" width="30px">
+I'm continuously self-learnerning and I'm currently software engineering student at [42 School](https://www.42sp.org.br//) <img src="https://raw.githubusercontent.com/lourencod14s/lourencod14s/main/42.jpeg" width="30px">
 
 I am also a technology enthusiast and gadget freak. Always up to date on different kind of devices and learning something new.
 
